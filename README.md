@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 I'm a second-year **Informatics** student at **UC Irvine**, and I use she/her pronouns.
 - I'm a beginner at coding in Python, Java, and HTML + CSS
 - My other areas of interest include digital design, linguistics, cognitive science, and anthropology
-
-Other than that, I don't have much of anything to write about . . . but I hopefully will soon as I learn more!  
-
-You can reach me on discord at annesa#0726 or on instagram [@annesatran](https://www.instagram.com/annesatran/)
+ 
 
 ![image](https://user-images.githubusercontent.com/93303711/148670268-c399bf47-9e23-4cc9-814f-49ec898ddd9e.png)
